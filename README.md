@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @indrajeetkhatarkar
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning ... Python Programming Language
+- 🌱 I’m currently learning ... Software Engineering Python Programming Language & AI/ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... indrajeetkhatarkar5@gmail.com
 - 😄 Pronouns: ...
