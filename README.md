@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @indrajeetkhatarkar
+- 👋 Hi, I’m Indrajeet Khatarkar
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning ... Software Engineering Python Programming Language & AI/ML
 - 💞️ I’m looking to collaborate on ...
