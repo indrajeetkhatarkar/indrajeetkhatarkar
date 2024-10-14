@@ -81,12 +81,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-<p align="center">
-  <img src="/assets/snake.svg">             
-  <img src="/assets/line.gif">             
-</p>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 
 ###
