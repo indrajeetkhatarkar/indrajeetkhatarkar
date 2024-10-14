@@ -1,4 +1,13 @@
 <h1 align="center">Hi 👋, I'm Indrajeet Khatarkar</h1>
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/king04aman/king04aman/refs/heads/main/assets/snake.svg" alt="Snake animation" />
+
+
+###
+
 <h3 align="center">A passionate Software Developer/Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indrajeetkhatarkar&label=Profile%20views&color=0e75b6&style=flat" alt="indrajeetkhatarkar" /> </p>
@@ -37,13 +46,5 @@
 
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/king04aman/king04aman/refs/heads/main/assets/snake.svg" alt="Snake animation" />
-
-
-###
 
 
