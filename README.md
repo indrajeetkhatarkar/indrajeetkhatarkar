@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGbUDyUPgjC4Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727032438815?e=1734566400&v=beta&t=fDc18glyfQ_dMOQm4azoRA36d2jeMQDXZfNPzFjehT0" alt="">
 <h1 align="center">Hi 👋, I'm Indrajeet Khatarkar</h1>
 
 
