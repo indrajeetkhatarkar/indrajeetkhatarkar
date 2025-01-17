@@ -1,21 +1,14 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGbUDyUPgjC4Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727032438815?e=1734566400&v=beta&t=fDc18glyfQ_dMOQm4azoRA36d2jeMQDXZfNPzFjehT0" alt="">
-<h1 align="center">Hi 👋, I'm Indrajeet Khatarkar</h1>
+<img src="https://github.com/indrajeetkhatarkar/indrajeetkhatarkar/blob/22f8348777ee88a0235e7576c98bf672f060468c/IndrajeetKhatarkargif.gif" />
 
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/king04aman/king04aman/refs/heads/main/assets/snake.svg" alt="Snake animation" />
 
 
 ###
 
 <h3 align="center">A passionate Software Developer/Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indrajeetkhatarkar&label=Profile%20views&color=0e75b6&style=flat" alt="indrajeetkhatarkar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indrajeetkhatarkar" alt="indrajeetkhatarkar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/indrajeet khatarkar" target="blank"><img src="https://img.shields.io/twitter/follow/indrajeet khatarkar?logo=twitter&style=for-the-badge" alt="indrajeet khatarkar" /></a> </p>
 
 - 📫 How to reach me **indrajeetkhatarkar5@gmail.com**
 
@@ -72,3 +65,8 @@
 <img src="https://camo.githubusercontent.com/c2a123f6cbb1b566ac38ecb498df6e8c17da65376e4526121b7adfa5543c8a78/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f666f726d61743a776562702f302a66423973794756435856684a4d2d504e2e676966">
 
 <img src="https://github.com/indrajeetkhatarkar/indrajeetkhatarkar/blob/main/new%20gif%20file.gif" />
+<img src="https://raw.githubusercontent.com/king04aman/king04aman/refs/heads/main/assets/snake.svg" alt="Snake animation" />
+
+
+
+
