@@ -58,11 +58,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indrajeetkhatarkar&show_icons=true&locale=en" alt="indrajeetkhatarkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indrajeetkhatarkar&" alt="indrajeetkhatarkar" /></p>
 
 
 
-<img src="https://camo.githubusercontent.com/c2a123f6cbb1b566ac38ecb498df6e8c17da65376e4526121b7adfa5543c8a78/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f666f726d61743a776562702f302a66423973794756435856684a4d2d504e2e676966">
+
+
 
 <img src="https://github.com/indrajeetkhatarkar/indrajeetkhatarkar/blob/main/new%20gif%20file.gif" />
 <img src="https://raw.githubusercontent.com/king04aman/king04aman/refs/heads/main/assets/snake.svg" alt="Snake animation" />
