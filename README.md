@@ -11,7 +11,7 @@
 
 
 - 📫 How to reach me **indrajeetkhatarkar5@gmail.com**
-- 📋 My Resume <a href="https://drive.google.com/file/d/1YGjZZIkUiQ_nCusoxqbJEbJjXwS5ToaR/view?usp=sharing" target="_blank">📂</a>
+- 📋 My Resume <a href="https://drive.google.com/file/d/1R7NFnL041qZX-UIO25Hm66b2D9nLy0hh/view?usp=sharing" target="_blank">📂</a>
 
 
 - ⚡ Fun fact **I'm Pookie hahahah....**
