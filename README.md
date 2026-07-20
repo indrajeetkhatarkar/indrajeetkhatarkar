@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">A passionate Software Developer/Engineer from India</h3>
+<h3 align="center">A passionate DevOps & Cloud Engineer from India</h3>
 
 ## 👨‍💻 About Me
 
