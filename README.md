@@ -8,7 +8,16 @@
 
 <h3 align="center">A passionate Software Developer/Engineer from India</h3>
 
+## 👨‍💻 About Me
 
+Hi, I'm Indrajeet Khatarkar, a passionate Software Developer and DevOps enthusiast from India.
+
+- ☁️ Exploring AWS Cloud and DevOps technologies
+- 🐳 Working with Docker, Jenkins, Terraform and Linux
+- 🔄 Interested in CI/CD automation and cloud infrastructure
+- 🧪 Knowledge of Selenium & Playwright Automation Testing
+- 💻 Skilled in Java, SQL and Software Development
+- 🚀 Passionate about learning new technologies and building reliable solutions
 
 - 📫 How to reach me **indrajeetkhatarkar5@gmail.com**
 - 📋 My Resume <a href="https://drive.google.com/file/d/1A26R9y8l1T2b_iFQOUyLUg6VhN3gcKSa/view?usp=sharing">📂</a>
