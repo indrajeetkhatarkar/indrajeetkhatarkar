@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm Indrajeet Khatarkar, a passionate Software Developer and DevOps enthusiast from India.
+Hi, I'm Indrajeet Khatarkar, a passionate Software Engineer and DevOps enthusiast from India.
 
 - ☁️ Exploring AWS Cloud and DevOps technologies
 - 🐳 Working with Docker, Jenkins, Terraform and Linux
