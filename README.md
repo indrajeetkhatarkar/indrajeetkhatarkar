@@ -20,7 +20,8 @@ Hi, I'm Indrajeet Khatarkar, a passionate Software Engineer and DevOps enthusias
 - 🚀 Passionate about learning new technologies and building reliable solutions
 
 - 📫 How to reach me **indrajeetkhatarkar5@gmail.com**
-- 📋 My Resume <a href="https://drive.google.com/file/d/1A26R9y8l1T2b_iFQOUyLUg6VhN3gcKSa/view?usp=sharing">📂</a>
+- 📋 My Resume <a href="https://drive.google.com/file/d/1xMYkG0egvr7H9W3cyqPOdKZx-QQAhcrE/view?usp=sharing">📂</a>
+
 
 
 - ⚡ Fun fact **I'm Pookie hahahah....**
