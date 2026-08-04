@@ -1,81 +1,177 @@
-<img src="https://github.com/indrajeetkhatarkar/indrajeetkhatarkar/blob/22f8348777ee88a0235e7576c98bf672f060468c/IndrajeetKhatarkargif.gif" />
+<!-- ========================================================= -->
 
+<!--                    PROFILE HEADER                         -->
 
-<br clear="both">
+<!-- ========================================================= -->
 
+<div align="center">
 
-###
+<img src="./IndrajeetKhatarkargif.gif" width="100%" />
 
-<h3 align="center">A passionate DevOps & Cloud Engineer from India</h3>
+<h1>Hi, I'm Indrajeet Khatarkar 👋</h1>
+
+<h3>Software Engineer • DevOps & Cloud Enthusiast • Automation Tester</h3>
+
+<p>
+Building software, automating workflows, and continuously learning modern cloud technologies.
+</p>
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-Hi, I'm Indrajeet Khatarkar, a passionate Software Engineer and DevOps enthusiast from India.
+I'm **Indrajeet Khatarkar**, a Software Engineer and technology enthusiast focused on building reliable applications, automating testing and deployment workflows, and exploring cloud-native technologies.
 
-- ☁️ Exploring AWS Cloud and DevOps technologies
-- 🐳 Working with Docker, Jenkins, Terraform and Linux
-- 🔄 Interested in CI/CD automation and cloud infrastructure
-- 🧪 Knowledge of Selenium & Playwright Automation Testing
-- 💻 Skilled in Java, SQL and Software Development
-- 🚀 Passionate about learning new technologies and building reliable solutions
+* 💻 Strong interest in **Java, Spring Boot & Software Development**
+* ☁️ Exploring **AWS Cloud & DevOps**
+* 🔄 Working with **CI/CD, Jenkins, Docker & Terraform**
+* 🧪 Interested in **Automation Testing using Selenium & Playwright**
+* 🐧 Comfortable with **Linux, Git & GitHub**
+* 🗄️ Working with **SQL & relational databases**
+* 🚀 Continuously improving my **DSA, development and DevOps skills**
+* 🎯 Goal: Build scalable, reliable and production-ready solutions
 
-- 📫 How to reach me **indrajeetkhatarkar5@gmail.com**
-- 📋 My Resume <a href="https://drive.google.com/file/d/1xMYkG0egvr7H9W3cyqPOdKZx-QQAhcrE/view?usp=sharing">📂</a>
+---
 
+## 🛠️ Tech Stack
 
+### 👨‍💻 Programming & Development
 
-- ⚡ Fun fact **I'm Pookie hahahah....**
+`Java` `JavaScript` `SQL` `HTML` `CSS`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/indrajeet khatarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="indrajeet khatarkar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/indrajeet khatarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indrajeet khatarkar" height="30" width="40" /></a>
-<a href="https://kaggle.com/indrajeet khatarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="indrajeet khatarkar" height="30" width="40" /></a>
-<a href="https://fb.com/indra jeet khatarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="indra jeet khatarkar" height="30" width="40" /></a>
-<a href="https://instagram.com/iamindrjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamindrjeet" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/indrajeet khatarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="indrajeet khatarkar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/indrajeet_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="indrajeet_04" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/indrajeet khatarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="indrajeet khatarkar" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/2TNfbS3Mfm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="indrajeet khatarkar" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/indrajeet khatarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="indrajeet khatarkar" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/indrajeetk1r12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="indrajeet khatarkar" height="30" width="40" /></a>
-</p>
+### 🌱 Backend & Frameworks
 
+`Spring Boot` `Spring MVC` `REST APIs` `Node.js` `Express.js`
 
-<h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                [ Indrajeet ]              @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
+### 🧪 Testing & Automation
 
+`Selenium` `Playwright` `TestNG` `Maven` `Page Object Model` `Postman`
 
+### ☁️ DevOps & Cloud
 
+`AWS` `Docker` `Jenkins` `Terraform` `Linux` `Git` `GitHub` `CI/CD`
 
+### 🗄️ Databases
 
+`MySQL` `MongoDB`
 
+---
 
+## 🚀 Featured Projects
 
+### 🏥 Pet Clinic Management System
 
+A web-based application built using **Java, Spring Boot, Thymeleaf and database integration**.
 
-<img src="https://github.com/indrajeetkhatarkar/indrajeetkhatarkar/blob/main/new%20gif%20file.gif" />
-<img src="https://raw.githubusercontent.com/king04aman/king04aman/refs/heads/main/assets/snake.svg" alt="Snake animation" />
+**Focus:** Backend Development • Spring Boot • Database Integration
 
+→ [View Project](../petclinic-management-system)
 
+---
+
+### 🧪 actiTIME Web Application Testing
+
+Automation testing project using **Java, Selenium WebDriver, TestNG, Maven and Page Object Model**.
+
+**Focus:** Test Automation • Selenium • TestNG • Maven • POM
+
+→ [View Project](../actiTIME-Web-Application-Testing)
+
+---
+
+### 🤖 AI Agent
+
+AI-powered chatbot application built using the **MERN stack** with **Google Gemini integration**.
+
+**Focus:** AI • MERN Stack • API Integration • Full Stack Development
+
+→ [View Project](../AI-Agent)
+
+---
+
+### 🛒 Grocery Store
+
+Full-stack web application for online grocery shopping with product browsing and ordering functionality.
+
+**Focus:** Python • Flask • MySQL • JavaScript • Bootstrap
+
+→ [View Project](../Grocery-Store)
+
+---
+
+### 📚 Book Store Management
+
+MERN-based book store application featuring user authentication, books, favourites and cart functionality.
+
+**Focus:** React • Node.js • Express.js • MongoDB
+
+→ [View Project](../Book-Store-Management)
+
+---
+
+### 🌐 Portfolio
+
+My personal developer portfolio showcasing my projects, technical skills and experience.
+
+→ [Visit Portfolio](../indrajeet-portfolio)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=indrajeetkhatarkar&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrajeetkhatarkar&layout=compact&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=indrajeetkhatarkar&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/king04aman/king04aman/refs/heads/main/assets/snake.svg" alt="GitHub Contribution Snake Animation" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+**LinkedIn:** `indrajeet-khatarkar-919980275`
+**Email:** `indrajeetkhatarkar5@gmail.com`
+**LeetCode:** `2TNfbS3Mfm`
+**GeeksforGeeks:** `indrajeetk1r12`
+**CodeChef:** `indrajeet_04`
+**Portfolio:** `indrajeet-portfolio-jawi`
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Programming isn't about what you know. It's about what you can figure out."
+
+<br>
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
