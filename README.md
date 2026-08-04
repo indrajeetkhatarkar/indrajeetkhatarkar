@@ -1,425 +1,534 @@
-<!-- ========================= HERO ========================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=INDRAJEET%20KHATARKAR&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Cloud%20%7C%20Automation&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0f172a,75:1e293b,100:38bdf8&text=INDRAJEET%20KHATARKAR&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20DEVOPS%20%7C%20CLOUD%20%7C%20AUTOMATION&descSize=16&descAlignY=56&animation=fadeIn"/>
+
+<a href="https://indrajeet-portfolio-jawi.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:indrajeetkhatarkar5@gmail.com">
+<img src="https://img.shields.io/badge/📩_CONTACT_ME-00D9FF?style=for-the-badge&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/indrajeet-khatarkar-919980275/">
+<img src="https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+software+that+works.;Automating+what+shouldn't+be+manual.;Turning+code+into+reliable+systems.;Java+%7C+Spring+Boot+%7C+AWS+%7C+Docker+%7C+Jenkins;Testing+%7C+CI%2FCD+%7C+Cloud+%7C+Automation;Always+learning.+Always+building.+%F0%9F%9A%80"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+%F0%9F%92%BB;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Automation+Testing+Enthusiast+%F0%9F%A7%AA;Java+%7C+Spring+Boot+%7C+AWS+%7C+Docker;Building+%E2%80%A2+Automating+%E2%80%A2+Learning+%E2%80%A2+Growing+%F0%9F%9A%80" />
-
-<br><br>
-
-<a href="https://indrajeet-portfolio-jawi.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0f172a?style=for-the-badge&logoColor=white" />
-</a>
-
-<a href="mailto:indrajeetkhatarkar5@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-0f172a?style=for-the-badge" />
-</a>
-
-<a href="https://www.linkedin.com/in/indrajeet-khatarkar-919980275/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=indrajeetkhatarkar&label=PROFILE%20VIEWS&color=0f172a&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=indrajeetkhatarkar&label=PROFILE%20VISITORS&color=38BDF8&style=flat-square"/>
 
 </div>
 
 ---
 
-<!-- ========================= ABOUT ========================= -->
+<div align="center">
 
-## 👨‍💻 About Me
-
-```java
-public class IndrajeetKhatarkar {
-
-    String role = "Software Engineer";
-    String focus = "DevOps, Cloud & Automation";
-
-    String[] interests = {
-        "Software Development",
-        "DevOps & CI/CD",
-        "Cloud Computing",
-        "Automation Testing",
-        "Backend Development",
-        "AI & Emerging Technologies"
-    };
-
-    String[] currentlyExploring = {
-        "AWS",
-        "Docker",
-        "Jenkins",
-        "Terraform",
-        "Spring Boot",
-        "System Design"
-    };
-
-    String mindset =
-        "Build. Automate. Learn. Improve. Repeat.";
-
-}
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  SYSTEM STATUS                                               │
+│                                                              │
+│  ● ONLINE                                                    │
+│                                                              │
+│  ROLE        →  SOFTWARE ENGINEER                            │
+│  FOCUS       →  JAVA • DEVOPS • CLOUD • AUTOMATION           │
+│  LOCATION    →  INDIA 🇮🇳                                    │
+│  CURRENTLY   →  BUILDING • LEARNING • AUTOMATING             │
+│                                                              │
+│  STATUS      →  OPEN TO OPPORTUNITIES 🚀                     │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-> 💡 I enjoy turning ideas into working software, automating repetitive processes, exploring cloud technologies, and continuously improving my engineering skills.
+</div>
+
+# `01` // WHO AM I?
+
+> **I don't just write code. I build systems, automate workflows, break things in testing, fix them, and make them better.**
+
+I'm **Indrajeet Khatarkar**, a Software Engineer focused on **Java development, DevOps, Cloud technologies and Automation Testing**.
+
+My engineering journey sits at the intersection of:
+
+**Software Development × Automation × Cloud × DevOps**
+
+I enjoy building applications, designing automated testing workflows, exploring CI/CD pipelines and understanding how software moves from **source code → build → test → deployment → production**.
+
+```text
+                    ┌──────────────────┐
+                    │      IDEAS       │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │      CODE        │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │      BUILD       │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │      TEST        │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │    AUTOMATE      │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │      CLOUD       │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │     DEPLOY 🚀    │
+                    └──────────────────┘
+```
 
 ---
 
-## ⚡ What I Do
+# `02` // ENGINEERING STACK
+
+<div align="center">
+
+### 💻 CORE
+
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css"/>
+
+<br><br>
+
+### ⚙️ BACKEND & FRAMEWORKS
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,flask"/>
+
+<br><br>
+
+### ☁️ DEVOPS & CLOUD
+
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,git,github"/>
+
+<br><br>
+
+### 🧪 TESTING & API
+
+<img src="https://skillicons.dev/icons?i=selenium,postman,maven"/>
+
+<br><br>
+
+### 🗄️ DATABASES
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</div>
+
+---
+
+# `03` // WHAT I BUILD
 
 <table>
 <tr>
-<td width="50%">
 
-### 💻 Software Engineering
+<td width="50%" valign="top">
 
-* Java & Spring Boot
-* REST API Development
+## ☕ Java Engineering
+
+```text
+Java
+ ↓
+Spring Boot
+ ↓
+REST APIs
+ ↓
+Database
+ ↓
+Production-ready application
+```
+
+**Focus**
+
+* Java
+* Spring Boot
+* REST APIs
+* Spring MVC
+* SQL
+* Database Integration
 * Backend Development
-* SQL & Database Integration
-* Full Stack Applications
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ☁️ DevOps & Cloud
+## ☁️ DevOps Engineering
 
-* AWS Cloud
+```text
+Git
+ ↓
+Jenkins
+ ↓
+Build
+ ↓
+Test
+ ↓
+Docker
+ ↓
+AWS
+ ↓
+Deploy 🚀
+```
+
+**Focus**
+
+* AWS
 * Docker
 * Jenkins
 * Terraform
 * Linux
-* Git & GitHub
-* CI/CD Automation
+* Git
+* CI/CD
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🧪 Automation Testing
+<td width="50%" valign="top">
 
-* Selenium WebDriver
+## 🧪 Automation Engineering
+
+```text
+Requirement
+ ↓
+Test Case
+ ↓
+Automation
+ ↓
+Execution
+ ↓
+Report
+ ↓
+CI/CD
+```
+
+**Focus**
+
+* Selenium
 * Playwright
 * TestNG
 * Maven
 * Page Object Model
 * API Testing
 * Postman
+* STLC
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Development Mindset
+## 🌐 Full Stack Development
 
-* Problem Solving
-* Clean Code
-* Continuous Learning
-* Automation
-* Debugging
-* Building Real-World Projects
+```text
+React
+ ↓
+API
+ ↓
+Node / Express
+ ↓
+MongoDB
+ ↓
+Web Application
+```
+
+**Focus**
+
+* React
+* Node.js
+* Express.js
+* MongoDB
+* JavaScript
+* HTML
+* CSS
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🛠️ Tech Stack
+# `04` // PROJECT LAB
 
 <div align="center">
 
-### 👨‍💻 Languages
+### 🏥 PET CLINIC MANAGEMENT SYSTEM
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
+**Java • Spring Boot • Thymeleaf • Database**
 
-<br><br>
-
-### 🌱 Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,flask" />
-
-<br><br>
-
-### ☁️ DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,git,github" />
-
-<br><br>
-
-### 🧪 Testing & Tools
-
-<img src="https://skillicons.dev/icons?i=selenium,postman,maven" />
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🏥 Pet Clinic Management System
-
-Spring Boot based web application with database integration.
-
-**Tech:** Java • Spring Boot • Thymeleaf • SQL
+A backend-focused web application designed around real-world application management and database integration.
 
 <a href="https://github.com/indrajeetkhatarkar/petclinic-management-system">
-<img src="https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+<br><br>
 
-<td width="50%">
+---
 
-### 🧪 actiTIME Automation Testing
+### 🧪 ACTITIME WEB APPLICATION TESTING
 
-Web automation framework using Selenium, TestNG, Maven and POM.
+**Java • Selenium • TestNG • Maven • Page Object Model**
 
-**Tech:** Java • Selenium • TestNG • Maven
+Automation testing framework focused on creating maintainable browser-based test cases using industry-standard testing practices.
 
 <a href="https://github.com/indrajeetkhatarkar/actiTIME-Web-Application-Testing">
-<img src="https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+<br><br>
 
-</tr>
+---
 
-<tr>
+### 🤖 AI AGENT
 
-<td width="50%">
+**MERN • Google Gemini • AI • REST APIs**
 
-### 🤖 AI Agent
-
-AI-powered chatbot built using MERN and Google Gemini integration.
-
-**Tech:** React • Node.js • Express • MongoDB • Gemini
+AI-powered chatbot application combining modern web development with generative AI capabilities.
 
 <a href="https://github.com/indrajeetkhatarkar/AI-Agent">
-<img src="https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+<br><br>
 
-<td width="50%">
+---
 
-### 🛒 Grocery Store
+### 🛒 GROCERY STORE
 
-Online grocery shopping application with backend and database integration.
+**Python • Flask • MySQL • JavaScript • Bootstrap**
 
-**Tech:** Python • Flask • MySQL • JavaScript
+Full-stack web application for online grocery shopping with product browsing and ordering functionality.
 
 <a href="https://github.com/indrajeetkhatarkar/Grocery-Store">
-<img src="https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+<br><br>
 
-</tr>
+---
 
-<tr>
+### 📚 BOOK STORE
 
-<td width="50%">
+**React • Node.js • Express • MongoDB**
 
-### 📚 Book Store
-
-MERN based book store with authentication, cart and favourites.
-
-**Tech:** React • Node.js • Express • MongoDB
+MERN-based book store application with authentication, books, favourites and cart functionality.
 
 <a href="https://github.com/indrajeetkhatarkar/Book-Store-Management">
-<img src="https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-
-<td width="50%">
-
-### 🌐 Developer Portfolio
-
-Personal portfolio showcasing projects, skills and experience.
-
-**Tech:** React • TypeScript • CSS
-
-<a href="https://github.com/indrajeetkhatarkar/indrajeet-portfolio">
-<img src="https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
+<br><br>
 
 ---
 
-# ☁️ DevOps & Cloud Journey
+### 🌐 DEVELOPER PORTFOLIO
 
-<div align="center">
+**TypeScript • React • Modern Web**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,git,github" />
-
-</div>
-
-```text
-Development
-     │
-     ▼
-   Git
-     │
-     ▼
-  Jenkins
-     │
-     ▼
-   Build
-     │
-     ▼
-   Docker
-     │
-     ▼
-   Testing
-     │
-     ▼
-    AWS
-     │
-     ▼
- Deployment 🚀
-```
-
-Currently building my understanding of **CI/CD pipelines, containerization, infrastructure automation and cloud deployment**.
-
----
-
-# 🧪 Testing & Automation
-
-I'm interested in building reliable software through automation and systematic testing.
-
-```text
-Test Planning
-      ↓
-Test Cases
-      ↓
-Selenium / Playwright
-      ↓
-TestNG
-      ↓
-Maven
-      ↓
-CI/CD
-      ↓
-Reliable Software 🚀
-```
-
-**Tools & Concepts**
-
-`Selenium` • `Playwright` • `TestNG` • `Maven` • `POM` • `Postman` • `API Testing` • `STLC`
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=indrajeetkhatarkar&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrajeetkhatarkar&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=indrajeetkhatarkar&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=indrajeetkhatarkar&theme=github-compact&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
-
-# 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/king04aman/king04aman/refs/heads/main/assets/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-```text
-☑ Strengthen Java & Spring Boot
-☑ Build production-ready projects
-☑ Improve DSA & problem solving
-☑ Learn AWS Cloud deeply
-☑ Build CI/CD pipelines
-☑ Improve Docker & Kubernetes knowledge
-☑ Master Automation Testing
-☑ Explore AI-powered applications
-☐ Become a better Software Engineer 🚀
-```
-
----
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/indrajeet-khatarkar-919980275/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+My personal portfolio showcasing my projects, skills, development journey and professional identity.
 
 <a href="https://indrajeet-portfolio-jawi.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE_PORTFOLIO-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# `05` // DEVOPS PIPELINE
+
+<div align="center">
+
+```text
+                  ┌─────────────┐
+                  │   DEVELOPER │
+                  └──────┬──────┘
+                         │
+                         ▼
+                  ┌─────────────┐
+                  │     GIT     │
+                  └──────┬──────┘
+                         │
+                         ▼
+                  ┌─────────────┐
+                  │   JENKINS   │
+                  └──────┬──────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │       BUILD         │
+              └──────────┬──────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │   AUTOMATED TEST    │
+              └──────────┬──────────┘
+                         │
+                         ▼
+                  ┌─────────────┐
+                  │   DOCKER    │
+                  └──────┬──────┘
+                         │
+                         ▼
+                  ┌─────────────┐
+                  │     AWS     │
+                  └──────┬──────┘
+                         │
+                         ▼
+                  ┌─────────────┐
+                  │  DEPLOY 🚀  │
+                  └─────────────┘
+```
+
+</div>
+
+---
+
+# `06` // AUTOMATION MINDSET
+
+<div align="center">
+
+```text
+IF IT CAN BE AUTOMATED
+        ↓
+        AUTOMATE IT
+
+IF IT CAN BE TESTED
+        ↓
+        TEST IT
+
+IF IT CAN BE IMPROVED
+        ↓
+        IMPROVE IT
+
+IF IT FAILS
+        ↓
+        DEBUG IT
+
+IF IT WORKS
+        ↓
+        MAKE IT BETTER 🚀
+```
+
+</div>
+
+---
+
+# `07` // GITHUB TELEMETRY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=indrajeetkhatarkar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrajeetkhatarkar&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=38BDF8&text_color=94A3B8" height="180"/>
+
+</div>
+
+---
+
+# `08` // CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=indrajeetkhatarkar&bg_color=00000000&color=38BDF8&line=38BDF8&point=ffffff&area_color=38BDF8&area=true&hide_border=true&custom_title=INDRAJEET%20%2F%2F%20CONTRIBUTION%20MATRIX" width="100%"/>
+
+</div>
+
+---
+
+# `09` // STREAK ENGINE
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=indrajeetkhatarkar&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" width="70%"/>
+
+</div>
+
+---
+
+# `10` // CURRENT MISSION
+
+<div align="center">
+
+| STATUS | MISSION                             |
+| :----: | :---------------------------------- |
+|   🟢   | Strengthen Java & Spring Boot       |
+|   🟢   | Build production-ready applications |
+|   🟢   | Improve DSA & problem solving       |
+|   🟢   | Deep dive into AWS                  |
+|   🟢   | Build real CI/CD pipelines          |
+|   🟢   | Improve Docker & Terraform          |
+|   🟢   | Master Automation Testing           |
+|   🟢   | Explore AI-powered applications     |
+|   🔵   | Become a stronger Software Engineer |
+
+</div>
+
+---
+
+# `11` // THE ENGINEERING LOOP
+
+<div align="center">
+
+```text
+        BUILD
+          ↓
+       BREAK 💥
+          ↓
+       DEBUG 🔍
+          ↓
+       LEARN 🧠
+          ↓
+       IMPROVE ⚡
+          ↓
+       AUTOMATE 🤖
+          ↓
+       DEPLOY 🚀
+          ↓
+        REPEAT
+```
+
+</div>
+
+---
+
+# `12` // CONNECT
+
+<div align="center">
+
+<a href="https://indrajeet-portfolio-jawi.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
+</a>
+
+<a href="https://www.linkedin.com/in/indrajeet-khatarkar-919980275/">
+<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
 <a href="mailto:indrajeetkhatarkar5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
 
 <a href="https://leetcode.com/u/2TNfbS3Mfm/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LEETCODE-0F172A?style=for-the-badge&logo=leetcode&logoColor=38BDF8"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/indrajeetk1r12/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GFG-0F172A?style=for-the-badge&logo=geeksforgeeks&logoColor=38BDF8"/>
 </a>
 
 <a href="https://www.codechef.com/users/indrajeet_04">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CODECHEF-0F172A?style=for-the-badge&logo=codechef&logoColor=38BDF8"/>
 </a>
 
 </div>
@@ -428,12 +537,14 @@ Reliable Software 🚀
 
 <div align="center">
 
-### 💭 Engineering is not about knowing everything.
-
-### It's about being able to figure things out.
+### `> BUILD SOMETHING WORTH REMEMBERING.`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/king04aman/king04aman/refs/heads/main/assets/snake.svg" width="100%" alt="Contribution Snake"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1e293b,100:020617&height=150&section=footer"/>
 
 </div>
