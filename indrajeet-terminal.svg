@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8"/></linearGradient><filter id="gl"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="330" rx="24" fill="#050816" stroke="#26314f"/>
+<rect x="1" y="1" width="1198" height="44" rx="24" fill="#0b1020"/>
+<circle cx="28" cy="23" r="6" fill="#fb7185"/><circle cx="49" cy="23" r="6" fill="#fbbf24"/><circle cx="70" cy="23" r="6" fill="#34d399"/>
+<text x="105" y="28" font-family="monospace" font-size="12" fill="#64748b">indrajeet@devops-lab:~</text>
+<g font-family="monospace" font-size="15">
+<text x="48" y="82" fill="#34d399">$</text><text x="68" y="82" fill="#e2e8f0">whoami</text>
+<text x="68" y="110" fill="#38bdf8">indrajeet // software-engineer</text>
+<text x="48" y="150" fill="#34d399">$</text><text x="68" y="150" fill="#e2e8f0">stack --active</text>
+<text x="68" y="178" fill="#94a3b8">java  spring-boot  aws  docker  jenkins  terraform</text>
+<text x="68" y="204" fill="#94a3b8">selenium  playwright  testng  postman  sql  mongodb</text>
+<text x="48" y="244" fill="#34d399">$</text><text x="68" y="244" fill="#e2e8f0">mission --current</text>
+<text x="68" y="272" fill="#818cf8">build → automate → test → deploy → improve</text>
+<text x="48" y="306" fill="#34d399">$</text><rect x="68" y="293" width="10" height="18" fill="#38bdf8" filter="url(#gl)"><animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
