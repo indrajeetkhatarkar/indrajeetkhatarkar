@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.5" stop-color="#0b1228"/>
+      <stop offset="1" stop-color="#111b3d"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.48" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="snakeGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <path id="snakePath"
+      d="M80 115
+         C180 45 285 175 390 105
+         C495 35 590 185 700 105
+         C810 25 915 180 1025 100
+         C1100 45 1135 75 1145 115
+         C1155 165 1080 185 1010 150
+         C900 95 810 225 700 160
+         C585 90 500 225 390 165
+         C285 105 190 235 80 175
+         C35 150 45 125 80 115
+         Z"/>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1164" height="384" rx="22" fill="none" stroke="#263a70" stroke-width="2"/>
+
+  <!-- ambient grid -->
+  <g opacity=".16" stroke="#38bdf8" stroke-width="1">
+    <path d="M40 70H1160M40 120H1160M40 170H1160M40 220H1160M40 270H1160M40 320H1160M40 370H1160"/>
+    <path d="M80 40V380M160 40V380M240 40V380M320 40V380M400 40V380M480 40V380M560 40V380M640 40V380M720 40V380M800 40V380M880 40V380M960 40V380M1040 40V380M1120 40V380"/>
+  </g>
+
+  <text x="60" y="62" fill="#67e8f9" font-family="monospace" font-size="14" letter-spacing="4">CONTRIBUTION // LIVE</text>
+  <circle cx="1125" cy="55" r="6" fill="#34d399" filter="url(#glow)">
+    <animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1075" y="62" fill="#94a3b8" font-family="monospace" font-size="12" text-anchor="end">ONLINE</text>
+
+  <!-- soft moving glow behind the name -->
+  <ellipse cx="600" cy="210" rx="430" ry="85" fill="#38bdf8" opacity=".07" filter="url(#softGlow)">
+    <animate attributeName="cx" values="420;780;420" dur="6s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- full name -->
+  <text x="600" y="238" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="74" font-weight="800" letter-spacing="2"
+        fill="url(#textGrad)" stroke="#0b1022" stroke-width="2" paint-order="stroke">
+    INDRAJEET KHATARKAR
+  </text>
+
+  <!-- snake shadow -->
+  <path d="M80 115 C180 45 285 175 390 105 C495 35 590 185 700 105 C810 25 915 180 1025 100 C1100 45 1135 75 1145 115"
+        fill="none" stroke="#22d3ee" stroke-width="18" opacity=".13" filter="url(#softGlow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-900" dur="5s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- animated snake -->
+  <g filter="url(#glow)">
+    <path d="M80 115 C180 45 285 175 390 105 C495 35 590 185 700 105 C810 25 915 180 1025 100 C1100 45 1135 75 1145 115 C1155 165 1080 185 1010 150 C900 95 810 225 700 160 C585 90 500 225 390 165 C285 105 190 235 80 175"
+          fill="none" stroke="url(#snakeGrad)" stroke-width="7" stroke-linecap="round"
+          stroke-dasharray="18 12">
+      <animate attributeName="stroke-dashoffset" from="0" to="-300" dur="2.2s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- snake head -->
+    <g>
+      <circle r="13" fill="#38bdf8" stroke="#c4b5fd" stroke-width="3">
+        <animateMotion dur="8s" repeatCount="indefinite" rotate="auto">
+          <mpath href="#snakePath"/>
+        </animateMotion>
+      </circle>
+      <circle r="3" fill="#ffffff">
+        <animateMotion dur="8s" repeatCount="indefinite" rotate="auto">
+          <mpath href="#snakePath"/>
+        </animateMotion>
+      </circle>
+    </g>
+  </g>
+
+  <!-- little particles moving around the name -->
+  <g fill="#67e8f9">
+    <circle cx="180" cy="300" r="3"><animate attributeName="cy" values="300;275;300" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="350" cy="335" r="2"><animate attributeName="cy" values="335;305;335" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="320" r="3"><animate attributeName="cy" values="320;290;320" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1010" cy="300" r="2"><animate attributeName="cy" values="300;270;300" dur="2.1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="600" y="350" text-anchor="middle" fill="#64748b"
+        font-family="monospace" font-size="13" letter-spacing="3">
+    BUILD • AUTOMATE • TEST • DEPLOY
+  </text>
+
+  <!-- scan line -->
+  <rect x="50" y="80" width="4" height="260" rx="2" fill="#22d3ee" opacity=".5">
+    <animate attributeName="x" values="50;1150;50" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
