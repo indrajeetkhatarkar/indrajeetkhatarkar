@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="520" viewBox="0 0 1400 520" role="img" aria-label="Indrajeet Khatarkar premium animated developer banner">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#030712"/><stop offset=".5" stop-color="#0a1025"/><stop offset="1" stop-color="#111b3d"/></linearGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#67e8f9"><animate attributeName="stop-color" values="#67e8f9;#a5b4fc;#67e8f9" dur="5s" repeatCount="indefinite"/></stop><stop offset=".52" stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8"><animate attributeName="stop-color" values="#818cf8;#22d3ee;#818cf8" dur="5s" repeatCount="indefinite"/></stop></linearGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="28"/></filter>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#38bdf8" stroke-opacity=".055"/></pattern>
+  <clipPath id="clip"><rect x="25" y="25" width="1350" height="470" rx="28"/></clipPath>
+</defs>
+
+<rect width="1400" height="520" rx="34" fill="#020617"/>
+<rect x="25" y="25" width="1350" height="470" rx="28" fill="url(#bg)" stroke="#29385f" stroke-width="2"/>
+<g clip-path="url(#clip)">
+  <rect x="25" y="25" width="1350" height="470" fill="url(#grid)"/>
+  <circle cx="250" cy="160" r="220" fill="#22d3ee" opacity=".055" filter="url(#soft)"><animate attributeName="cx" values="180;330;180" dur="8s" repeatCount="indefinite"/></circle>
+  <circle cx="1150" cy="360" r="260" fill="#818cf8" opacity=".055" filter="url(#soft)"><animate attributeName="cy" values="300;390;300" dur="9s" repeatCount="indefinite"/></circle>
+
+  <!-- moving scan -->
+  <rect x="25" y="28" width="1350" height="2" fill="url(#line)" opacity=".7"><animate attributeName="y" from="28" to="492" dur="6s" repeatCount="indefinite"/></rect>
+
+  <text x="70" y="72" font-family="monospace" font-size="12" letter-spacing="3" fill="#64748b">DEVELOPER IDENTITY / 2026</text>
+  <g transform="translate(1225 55)"><circle r="6" fill="#22c55e" filter="url(#glow)"><animate attributeName="opacity" values=".3;1;.3" dur="1.5s" repeatCount="indefinite"/></circle><text x="18" y="5" font-family="monospace" font-size="11" fill="#94a3b8">ONLINE</text></g>
+
+  <!-- NAME AREA: deliberately wide, no overlap -->
+  <text x="70" y="178" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="900" letter-spacing="5" fill="url(#name)" filter="url(#glow)">INDRAJEET</text>
+  <text x="74" y="258" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" letter-spacing="7" fill="url(#name)">KHATARKAR</text>
+
+  <!-- animated underline -->
+  <rect x="74" y="282" width="650" height="4" rx="2" fill="url(#line)" opacity=".9">
+    <animate attributeName="width" values="80;650;180;650" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="74" cy="284" r="6" fill="#67e8f9" filter="url(#glow)"><animate attributeName="cx" values="74;724;74" dur="5s" repeatCount="indefinite"/></circle>
+
+  <text x="74" y="322" font-family="monospace" font-size="15" letter-spacing="1.5" fill="#cbd5e1">SOFTWARE ENGINEER  •  DEVOPS  •  CLOUD  •  AUTOMATION</text>
+
+  <!-- skill pills -->
+  <g font-family="monospace" font-size="12" font-weight="700">
+    <g transform="translate(74 350)"><rect width="122" height="38" rx="10" fill="#071426" stroke="#164e63"/><text x="61" y="24" text-anchor="middle" fill="#67e8f9">JAVA</text></g>
+    <g transform="translate(208 350)"><rect width="154" height="38" rx="10" fill="#071426" stroke="#312e81"/><text x="77" y="24" text-anchor="middle" fill="#a5b4fc">SPRING BOOT</text></g>
+    <g transform="translate(374 350)"><rect width="105" height="38" rx="10" fill="#071426" stroke="#164e63"/><text x="52" y="24" text-anchor="middle" fill="#67e8f9">AWS</text></g>
+    <g transform="translate(491 350)"><rect width="126" height="38" rx="10" fill="#071426" stroke="#312e81"/><text x="63" y="24" text-anchor="middle" fill="#a5b4fc">DOCKER</text></g>
+    <g transform="translate(629 350)"><rect width="134" height="38" rx="10" fill="#071426" stroke="#164e63"/><text x="67" y="24" text-anchor="middle" fill="#67e8f9">JENKINS</text></g>
+  </g>
+
+  <!-- terminal safely separated from name -->
+  <rect x="850" y="95" width="445" height="285" rx="20" fill="#020617" fill-opacity=".96" stroke="#2b3b67" stroke-width="2"/>
+  <rect x="850" y="95" width="445" height="48" rx="20" fill="#071126"/>
+  <circle cx="879" cy="119" r="6" fill="#ef4444"/><circle cx="900" cy="119" r="6" fill="#eab308"/><circle cx="921" cy="119" r="6" fill="#22c55e"/>
+  <text x="952" y="124" font-family="monospace" font-size="12" fill="#64748b">indrajeet@dev-machine:~</text>
+  <g font-family="monospace" font-size="14">
+    <text x="880" y="174" fill="#22d3ee">$ whoami</text><text x="880" y="198" fill="#f8fafc">indrajeet</text>
+    <text x="880" y="230" fill="#22d3ee">$ role</text><text x="880" y="254" fill="#cbd5e1">software-engineer / devops</text>
+    <text x="880" y="286" fill="#22d3ee">$ mission</text><text x="880" y="310" fill="#cbd5e1">build • automate • deploy</text>
+    <text x="880" y="342" fill="#22d3ee">$ status</text><text x="954" y="342" fill="#22c55e">● learning &amp; shipping</text>
+    <rect x="880" y="354" width="9" height="15" fill="#38bdf8"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <line x1="70" y1="426" x2="1330" y2="426" stroke="#29385f"/>
+  <text x="70" y="458" font-family="monospace" font-size="12" fill="#38bdf8">BUILD • AUTOMATE • TEST • DEPLOY • REPEAT</text>
+  <text x="1330" y="458" text-anchor="end" font-family="monospace" font-size="11" fill="#64748b">INDRAJEET KHATARKAR // SYSTEM READY</text>
+</g>
+</svg>
