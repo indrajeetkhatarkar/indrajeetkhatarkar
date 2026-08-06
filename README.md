@@ -27,7 +27,8 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=indrajeetkhatarkar&label=PROFILE%20VIEWS&style=for-the-badge&color=22D3EE"/>
+<img src="https://komarev.com/ghpvc/?username=indrajeetkhatarkar&label=PROFILE%20VIEWS&style=for-the-badge&color=22D3EE"
+     alt="Profile views"/>
 
 </div>
 
@@ -40,6 +41,18 @@
 <img src="./indrajeet-command-center.svg"
      width="100%"
      alt="Indrajeet Command Center"/>
+
+</div>
+
+<br>
+
+<!-- ═════════════════════ SNAKE IDENTITY ═════════════════════ -->
+
+<div align="center">
+
+<img src="./indrajeet-khatarkar-snake-inside-name.svg"
+     width="100%"
+     alt="Indrajeet Khatarkar animated snake identity"/>
 
 </div>
 
@@ -164,19 +177,22 @@ API Testing
 
 <h3>PROGRAMMING & DEVELOPMENT</h3>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,spring,nodejs,express,react,flask&perline=10"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,spring,nodejs,express,react,flask&perline=10"
+     alt="Programming and development technologies"/>
 
 <br><br>
 
 <h3>DEVOPS & CLOUD</h3>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,git,github,maven&perline=8"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,git,github,maven&perline=8"
+     alt="DevOps and cloud technologies"/>
 
 <br><br>
 
 <h3>DATABASE & API</h3>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postman&perline=8"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postman&perline=8"
+     alt="Database and API technologies"/>
 
 <br><br>
 
@@ -343,15 +359,18 @@ skills and professional identity.
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=indrajeetkhatarkar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github"
-height="180"/>
+     height="180"
+     alt="GitHub statistics"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrajeetkhatarkar&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1"
-height="180"/>
+     height="180"
+     alt="Top languages"/>
 
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=indrajeetkhatarkar&hide_border=true&background=00000000&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0"
-width="75%"/>
+     width="75%"
+     alt="GitHub streak"/>
 
 </div>
 
@@ -364,13 +383,16 @@ width="75%"/>
 # 📡 Contribution Matrix
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=indrajeetkhatarkar&bg_color=00000000&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=INDRAJEET%20%2F%2F%20CONTRIBUTION%20ACTIVITY"
-width="100%"/>
+     width="100%"
+     alt="GitHub contribution activity"/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg"
-width="100%"
-alt="GitHub contribution snake"/>
+<!-- CUSTOM SNAKE ART -->
+
+<img src="./indrajeet-snake-art.svg"
+     width="100%"
+     alt="Indrajeet animated snake art"/>
 
 </div>
 
@@ -530,18 +552,30 @@ BUILD → TEST → AUTOMATE → DEPLOY → OBSERVE → IMPROVE
 
 <br><br>
 
+<!-- ═════════════════════ CUSTOM FINAL SNAKE MOTION ═════════════════════ -->
+
+<div align="center">
+
+<img src="./indrajeet-khatarkar-snake-motion.svg"
+     width="100%"
+     alt="Indrajeet Khatarkar animated snake motion"/>
+
+</div>
+
+<br><br>
+
 <!-- ═════════════════════ PREMIUM ENDING ═════════════════════ -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:312E81,75:0EA5E9,100:22D3EE&height=180&section=footer&text=INDRAJEET%20KHATARKAR&fontSize=28&fontColor=FFFFFF&animation=twinkling&fontAlignY=65"
-width="100%"
-alt="Indrajeet Khatarkar animated footer"/>
+     width="100%"
+     alt="Indrajeet Khatarkar animated footer"/>
 
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1800&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+TEST+%E2%80%A2+DEPLOY;ALWAYS+LEARNING.+ALWAYS+BUILDING.;THE+NEXT+VERSION+IS+BETTER."
-alt="Animated closing message"/>
+     alt="Animated closing message"/>
 
 <br><br>
 
