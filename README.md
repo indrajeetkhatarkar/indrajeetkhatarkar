@@ -18,7 +18,7 @@
 
 <br>
 
-<a href="https://indrajeet-portfolio-jawi.vercel.app/">
+<a href="https://indrajeet-khatarkar-com.vercel.app/">
 <img src="https://img.shields.io/badge/%E2%9A%A1%20PORTFOLIO-LIVE-020617?style=for-the-badge&logo=vercel&logoColor=38BDF8"
      alt="Portfolio"/>
 </a>
@@ -364,7 +364,7 @@ My personal developer portfolio showcasing projects,
 skills and professional identity.
 </p>
 
-<a href="https://indrajeet-portfolio-jawi.vercel.app/">
+<a href="https://indrajeet-khatarkar-com.vercel.app/">
 <b>OPEN PORTFOLIO →</b>
 </a>
 
@@ -547,7 +547,7 @@ BUILD → TEST → AUTOMATE → DEPLOY → OBSERVE → IMPROVE
 
 <br>
 
-<a href="https://indrajeet-portfolio-jawi.vercel.app/">
+<a href="https://indrajeet-khatarkar-com.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-020617?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
 </a>
 
