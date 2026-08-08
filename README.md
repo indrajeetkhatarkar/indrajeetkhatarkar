@@ -354,23 +354,29 @@ skills and professional identity.
 
 <div align="center">
 
-# 📊 GitHub Telemetry
+<h2>📊 GitHub Telemetry</h2>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=indrajeetkhatarkar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github"
-     height="180"
-     alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrajeetkhatarkar&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1"
-     height="180"
-     alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indrajeetkhatarkar&theme=github_dark"
+     width="100%"
+     alt="GitHub profile activity"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=indrajeetkhatarkar&hide_border=true&background=00000000&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0"
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=indrajeetkhatarkar&theme=github_dark"
+     height="180"
+     alt="Repositories per language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=indrajeetkhatarkar&theme=github_dark"
+     height="180"
+     alt="Most committed languages"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=indrajeetkhatarkar&theme=github-dark-blue&hide_border=true"
      width="75%"
-     alt="GitHub streak"/>
+     alt="GitHub contribution streak"/>
 
 </div>
 
