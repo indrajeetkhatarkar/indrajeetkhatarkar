@@ -2,33 +2,58 @@
 
 <!-- ═════════════════════ HERO ═════════════════════ -->
 
+<div align="center">
+
 <img src="./indrajeet-premium-final%20(1).svg"
      width="100%"
      alt="Indrajeet Khatarkar — Software Engineer"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=600&color=38BDF8&center=true&vCenter=true&width=950&lines=SOFTWARE+ENGINEER;JAVA+%7C+SPRING+BOOT+%7C+BACKEND;DEVOPS+%7C+AWS+%7C+DOCKER+%7C+JENKINS;AUTOMATION+TESTING+%7C+SELENIUM+%7C+PLAYWRIGHT;BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+TEST+%E2%80%A2+DEPLOY"
-     alt="Animated typing"/>
+<h2>SOFTWARE ENGINEER • JAVA • BACKEND • DEVOPS • CLOUD</h2>
 
-<br><br>
+<p>
+<b>Build • Automate • Test • Deploy</b>
+</p>
+
+<br>
 
 <a href="https://indrajeet-portfolio-jawi.vercel.app/">
-<img src="https://img.shields.io/badge/%E2%9A%A1%20PORTFOLIO-LIVE-020617?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/%E2%9A%A1%20PORTFOLIO-LIVE-020617?style=for-the-badge&logo=vercel&logoColor=38BDF8"
+     alt="Portfolio"/>
 </a>
 
 <a href="https://www.linkedin.com/in/indrajeet-khatarkar-919980275/">
-<img src="https://img.shields.io/badge/%F0%9F%94%97%20LINKEDIN-CONNECT-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/%F0%9F%94%97%20LINKEDIN-CONNECT-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"
+     alt="LinkedIn"/>
 </a>
 
 <a href="mailto:indrajeetkhatarkar5@gmail.com">
-<img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8"
+     alt="Email"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1xMYkG0egvr7H9W3cyqPOdKZx-QQAhcrE/view?usp=sharing">
+<img src="https://img.shields.io/badge/%F0%9F%93%84%20RESUME-VIEW-020617?style=for-the-badge&logo=googledrive&logoColor=38BDF8"
+     alt="Resume"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=indrajeetkhatarkar&label=PROFILE%20VIEWS&style=for-the-badge&color=22D3EE"
-     alt="Profile views"/>
+<a href="https://leetcode.com/u/2TNfbS3Mfm/">
+<img src="https://img.shields.io/badge/LEETCODE-PROFILE-020617?style=for-the-badge&logo=leetcode&logoColor=FACC15"
+     alt="LeetCode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/indrajeetk1r12/">
+<img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-020617?style=for-the-badge&logo=geeksforgeeks&logoColor=22C55E"
+     alt="GeeksforGeeks"/>
+</a>
+
+<a href="https://www.codechef.com/users/indrajeet_04">
+<img src="https://img.shields.io/badge/CODECHEF-PROFILE-020617?style=for-the-badge&logo=codechef&logoColor=F97316"
+     alt="CodeChef"/>
+</a>
 
 </div>
 
