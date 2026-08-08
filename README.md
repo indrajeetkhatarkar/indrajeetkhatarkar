@@ -613,3 +613,8 @@ BUILD → TEST → AUTOMATE → DEPLOY → OBSERVE → IMPROVE
 <b>Thanks for stopping by. ⭐</b>
 
 </div>
+
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indrajeet-khatarkar/)
