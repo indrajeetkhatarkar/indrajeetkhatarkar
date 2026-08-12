@@ -6,50 +6,31 @@
 
 <br><br>
 
-<h3>
+<h3 align="center">
 SOFTWARE ENGINEER • JAVA • BACKEND • DEVOPS • CLOUD
 </h3>
 
-<br>
+<p align="center">
+  🌐 <a href="https://indrajeet-portfolio-jawi.vercel.app/"><b>Portfolio</b></a>
+  &nbsp;•&nbsp;
+  💼 <a href="https://www.linkedin.com/in/indrajeet-khatarkar-919980275/"><b>LinkedIn</b></a>
+  &nbsp;•&nbsp;
+  ✉️ <a href="mailto:indrajeetkhatarkar5@gmail.com"><b>Email</b></a>
+  &nbsp;•&nbsp;
+  📄 <a href="https://drive.google.com/file/d/1xMYkG0egvr7H9W3cyqPOdKZx-QQAhcrE/view?usp=sharing"><b>Resume</b></a>
+</p>
 
-<a href="https://indrajeet-portfolio-jawi.vercel.app/">
-🌐 <b>Portfolio</b>
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/indrajeet-khatarkar-919980275/">
-💼 <b>LinkedIn</b>
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="mailto:indrajeetkhatarkar5@gmail.com">
-✉️ <b>Email</b>
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://drive.google.com/file/d/1xMYkG0egvr7H9W3cyqPOdKZx-QQAhcrE/view?usp=sharing">
-📄 <b>Resume</b>
-</a>
-
-<br><br>
-
-<a href="https://leetcode.com/u/2TNfbS3Mfm/">
-⚡ LeetCode
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://www.geeksforgeeks.org/user/indrajeetk1r12/">
-🟢 GeeksforGeeks
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://www.codechef.com/users/indrajeet_04">
-🍳 CodeChef
-</a>
+<p align="center">
+  ⚡ <a href="https://leetcode.com/u/2TNfbS3Mfm/"><b>LeetCode</b></a>
+  &nbsp;•&nbsp;
+  🟢 <a href="https://www.geeksforgeeks.org/user/indrajeetk1r12/"><b>GeeksforGeeks</b></a>
+  &nbsp;•&nbsp;
+  🍳 <a href="https://www.codechef.com/users/indrajeet_04"><b>CodeChef</b></a>
+</p>
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
@@ -80,14 +61,11 @@ understanding how software reaches production.
 
 <table>
 <tr>
-
 <td align="center" width="25%">
 
 ### ☕
 
-<b>JAVA</b>
-
-<br>
+**JAVA**
 
 Spring Boot<br>
 Backend<br>
@@ -99,9 +77,7 @@ REST APIs
 
 ### ☁️
 
-<b>CLOUD</b>
-
-<br>
+**CLOUD**
 
 AWS<br>
 Infrastructure<br>
@@ -113,9 +89,7 @@ Deployment
 
 ### ⚙️
 
-<b>DEVOPS</b>
-
-<br>
+**DEVOPS**
 
 Docker<br>
 Jenkins<br>
@@ -127,16 +101,13 @@ Terraform
 
 ### 🧪
 
-<b>QUALITY</b>
-
-<br>
+**QUALITY**
 
 Selenium<br>
 Playwright<br>
 TestNG
 
 </td>
-
 </tr>
 </table>
 
@@ -158,21 +129,15 @@ TestNG
 
 <div align="center">
 
-<h3>Development</h3>
-
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,spring,nodejs,express,react,flask&perline=10"
      alt="Development technologies"/>
 
 <br><br>
 
-<h3>DevOps & Cloud</h3>
-
 <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,git,github,maven&perline=8"
      alt="DevOps technologies"/>
 
 <br><br>
-
-<h3>Database & Testing</h3>
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,selenium,postman&perline=8"
      alt="Database and testing technologies"/>
@@ -185,51 +150,35 @@ TestNG
 
 <table>
 <tr>
-
 <td align="center">
 
-<b>BACKEND</b>
-
-<br>
-
+<b>BACKEND</b><br>
 Java · Spring Boot · REST · Node.js · Express
 
 </td>
 
 <td align="center">
 
-<b>DEVOPS & CLOUD</b>
-
-<br>
-
+<b>DEVOPS & CLOUD</b><br>
 AWS · Docker · Jenkins · Terraform · Linux
 
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center">
 
-<b>AUTOMATION</b>
-
-<br>
-
+<b>AUTOMATION</b><br>
 Selenium · Playwright · TestNG · Maven · POM
 
 </td>
 
 <td align="center">
 
-<b>DATA & API</b>
-
-<br>
-
+<b>DATA & API</b><br>
 MySQL · MongoDB · Postman · API Testing
 
 </td>
-
 </tr>
 </table>
 
@@ -252,7 +201,6 @@ MySQL · MongoDB · Postman · API Testing
 <div align="center">
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -366,7 +314,6 @@ Open Live Portfolio →
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -377,11 +324,11 @@ Open Live Portfolio →
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=indrajeetkhatarkar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github"
+<img src="https://github-readme-stats.vercel.app/api?username=indrajeetkhatarkar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8&rank_icon=github"
      height="180"
      alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrajeetkhatarkar&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrajeetkhatarkar&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=94A3B8"
      height="180"
      alt="Top languages"/>
 
@@ -418,39 +365,30 @@ Open Live Portfolio →
 <div align="center">
 
 <table>
-
 <tr>
 
 <td align="center">
-
 🟢<br>
 <b>Java + Spring Boot</b><br>
 <sub>Backend Engineering</sub>
-
 </td>
 
 <td align="center">
-
 🟢<br>
 <b>AWS + Cloud</b><br>
 <sub>Cloud Infrastructure</sub>
-
 </td>
 
 <td align="center">
-
 🟢<br>
 <b>Docker + Jenkins</b><br>
 <sub>CI/CD Automation</sub>
-
 </td>
 
 <td align="center">
-
 🟢<br>
 <b>Terraform</b><br>
 <sub>Infrastructure as Code</sub>
-
 </td>
 
 </tr>
@@ -458,39 +396,30 @@ Open Live Portfolio →
 <tr>
 
 <td align="center">
-
 🟢<br>
 <b>Automation</b><br>
 <sub>Selenium + Playwright</sub>
-
 </td>
 
 <td align="center">
-
 🟢<br>
 <b>DSA</b><br>
 <sub>Problem Solving</sub>
-
 </td>
 
 <td align="center">
-
 🔵<br>
 <b>AI Applications</b><br>
 <sub>Intelligent Systems</sub>
-
 </td>
 
 <td align="center">
-
 🔵<br>
 <b>Engineering</b><br>
 <sub>Build • Ship • Improve</sub>
-
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -517,13 +446,13 @@ Open Live Portfolio →
 ✉️ Email
 </a>
 
-&nbsp;&nbsp;•&nbsp;&nbsp;
+<br><br>
 
 <a href="https://leetcode.com/u/2TNfbS3Mfm/">
 ⚡ LeetCode
 </a>
 
-<br><br>
+&nbsp;&nbsp;•&nbsp;&nbsp;
 
 <a href="https://www.geeksforgeeks.org/user/indrajeetk1r12/">
 🟢 GeeksforGeeks
@@ -535,7 +464,7 @@ Open Live Portfolio →
 🍳 CodeChef
 </a>
 
-&nbsp;&nbsp;•&nbsp;&nbsp;
+<br><br>
 
 <a href="https://drive.google.com/file/d/1xMYkG0egvr7H9W3cyqPOdKZx-QQAhcrE/view?usp=sharing">
 📄 Resume
