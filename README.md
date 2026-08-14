@@ -506,50 +506,6 @@ BUILD → TEST → AUTOMATE → DEPLOY → OBSERVE → IMPROVE
 
 <br><br>
 
-<a href="https://indrajeet-portfolio-jawi.vercel.app/">
-<b>⚡ Portfolio</b>
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/indrajeet-khatarkar-919980275/">
-<b>🔗 LinkedIn</b>
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="mailto:indrajeetkhatarkar5@gmail.com">
-<b>📧 Email</b>
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://drive.google.com/file/d/1xMYkG0egvr7H9W3cyqPOdKZx-QQAhcrE/view?usp=sharing">
-<b>📄 Resume</b>
-</a>
-
-<br><br>
-
-<a href="https://leetcode.com/u/2TNfbS3Mfm/">
-<b>🧠 LeetCode</b>
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://www.geeksforgeeks.org/user/indrajeetk1r12/">
-<b>💻 GeeksforGeeks</b>
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://www.codechef.com/users/indrajeet_04">
-<b>🏆 CodeChef</b>
-</a>
-
-</div>
-
-<br><br>
-
 <!-- ═════════════════════ FINAL SNAKE MOTION ═════════════════════ -->
 
 <div align="center">
