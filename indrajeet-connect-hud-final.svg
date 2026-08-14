@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="220" viewBox="0 0 1400 220">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#020617"/>
+    <stop offset=".5" stop-color="#0b1120"/>
+    <stop offset="1" stop-color="#020617"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" x2="1">
+    <stop stop-color="#38BDF8" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#38BDF8"/>
+    <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .title{font:700 13px 'JetBrains Mono',monospace;letter-spacing:3px;fill:#64748B}
+    .node{font:800 14px 'JetBrains Mono',monospace;letter-spacing:1.5px;fill:#E2E8F0}
+    .sub{font:600 8px 'JetBrains Mono',monospace;letter-spacing:2px;fill:#475569}
+    .pulse{animation:pulse 1.7s ease-in-out infinite}
+    .dash{animation:dash 3s linear infinite}
+    .scan{animation:scan 4.2s linear infinite}
+    .travel{animation:travel 2.8s linear infinite}
+    @keyframes pulse{0%,100%{opacity:.35;transform:scale(.85)}50%{opacity:1;transform:scale(1.15)}}
+    @keyframes dash{to{stroke-dashoffset:-80}}
+    @keyframes scan{0%{transform:translateX(-300px);opacity:0}15%{opacity:1}70%{opacity:1}100%{transform:translateX(1700px);opacity:0}}
+    @keyframes travel{to{stroke-dashoffset:-1000}}
+  </style>
+</defs>
+
+<rect x="5" y="5" width="1390" height="210" rx="24" fill="url(#bg)" stroke="#172554" stroke-width="2"/>
+<path d="M28 48H1372M28 176H1372" stroke="#0f2742"/>
+<text x="34" y="31" class="title">INDRAJEET // CONNECT HUB</text>
+<text x="1366" y="31" text-anchor="end" class="title">DIGITAL PRESENCE</text>
+
+<path d="M115 112H1285" fill="none" stroke="#1e3a5f" stroke-width="1.5"/>
+<path d="M115 112H1285" class="dash" fill="none" stroke="#38BDF8" stroke-width="1.2" stroke-dasharray="5 13"/>
+<g class="scan" filter="url(#glow)"><rect x="0" y="110" width="230" height="3" fill="url(#line)"/></g>
+
+<g transform="translate(115 112)">
+ <circle r="22" fill="#38BDF8" opacity=".08"/>
+ <circle r="9" fill="#38BDF8" class="pulse"/>
+ <circle r="15" fill="none" stroke="#38BDF8" stroke-opacity=".35"/>
+ <text y="-35" text-anchor="middle" class="node">PORTFOLIO</text><text y="45" text-anchor="middle" class="sub">LIVE SITE</text>
+</g>
+<g transform="translate(310 112)">
+ <circle r="22" fill="#60A5FA" opacity=".08"/>
+ <circle r="9" fill="#60A5FA" class="pulse" style="animation-delay:.2s"/>
+ <circle r="15" fill="none" stroke="#60A5FA" stroke-opacity=".35"/>
+ <text y="-35" text-anchor="middle" class="node">LINKEDIN</text><text y="45" text-anchor="middle" class="sub">NETWORK</text>
+</g>
+<g transform="translate(505 112)">
+ <circle r="22" fill="#A78BFA" opacity=".08"/>
+ <circle r="9" fill="#A78BFA" class="pulse" style="animation-delay:.4s"/>
+ <circle r="15" fill="none" stroke="#A78BFA" stroke-opacity=".35"/>
+ <text y="-35" text-anchor="middle" class="node">EMAIL</text><text y="45" text-anchor="middle" class="sub">CONTACT</text>
+</g>
+<g transform="translate(700 112)">
+ <circle r="22" fill="#22D3EE" opacity=".08"/>
+ <circle r="9" fill="#22D3EE" class="pulse" style="animation-delay:.6s"/>
+ <circle r="15" fill="none" stroke="#22D3EE" stroke-opacity=".35"/>
+ <text y="-35" text-anchor="middle" class="node">RESUME</text><text y="45" text-anchor="middle" class="sub">PROFILE</text>
+</g>
+<g transform="translate(895 112)">
+ <circle r="22" fill="#FACC15" opacity=".08"/>
+ <circle r="9" fill="#FACC15" class="pulse" style="animation-delay:.8s"/>
+ <circle r="15" fill="none" stroke="#FACC15" stroke-opacity=".35"/>
+ <text y="-35" text-anchor="middle" class="node">LEETCODE</text><text y="45" text-anchor="middle" class="sub">DSA</text>
+</g>
+<g transform="translate(1090 112)">
+ <circle r="22" fill="#22C55E" opacity=".08"/>
+ <circle r="9" fill="#22C55E" class="pulse" style="animation-delay:1s"/>
+ <circle r="15" fill="none" stroke="#22C55E" stroke-opacity=".35"/>
+ <text y="-35" text-anchor="middle" class="node">GFG</text><text y="45" text-anchor="middle" class="sub">LEARNING</text>
+</g>
+<g transform="translate(1285 112)">
+ <circle r="22" fill="#FB923C" opacity=".08"/>
+ <circle r="9" fill="#FB923C" class="pulse" style="animation-delay:1.2s"/>
+ <circle r="15" fill="none" stroke="#FB923C" stroke-opacity=".35"/>
+ <text y="-35" text-anchor="middle" class="node">CODECHEF</text><text y="45" text-anchor="middle" class="sub">CODING</text>
+</g>
+
+<path d="M115 112H1285" class="travel" fill="none" stroke="#E2E8F0" stroke-width="2" stroke-linecap="round" stroke-dasharray="3 997"/>
+<text x="34" y="198" class="sub">BUILD • AUTOMATE • TEST • DEPLOY</text>
+<text x="1366" y="198" text-anchor="end" class="sub">7 CHANNELS // ONE ENGINEERING IDENTITY</text>
+</svg>
