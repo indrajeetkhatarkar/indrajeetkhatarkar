@@ -500,7 +500,7 @@ BUILD → TEST → AUTOMATE → DEPLOY → OBSERVE → IMPROVE
 
 <br>
 
-<img src="./indrajeet-connect-hud-v2.svg"
+<img src="./indrajeet-connect-hud-final.svg"
      width="100%"
      alt="Indrajeet digital presence"/>
 
