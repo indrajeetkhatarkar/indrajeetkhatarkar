@@ -2,39 +2,33 @@
 
 <!-- ═════════════════════ HERO ═════════════════════ -->
 
-<div align="center">
-
 <img src="./indrajeet-premium-final%20(1).svg"
-  width="100%"
-  alt="Indrajeet Khatarkar — Software Engineer"/>
+     width="100%"
+     alt="Indrajeet Khatarkar — Software Engineer"/>
 
 <br><br>
 
-<h2>SOFTWARE ENGINEER • JAVA • BACKEND • DEVOPS • CLOUD</h2>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=600&color=38BDF8&center=true&vCenter=true&width=950&lines=SOFTWARE+ENGINEER;JAVA+%7C+SPRING+BOOT+%7C+BACKEND;DEVOPS+%7C+AWS+%7C+DOCKER+%7C+JENKINS;AUTOMATION+TESTING+%7C+SELENIUM+%7C+PLAYWRIGHT;BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+TEST+%E2%80%A2+DEPLOY"
+     alt="Animated typing"/>
 
-<p>
-<b>Build • Automate • Test • Deploy</b>
-</p>
+<br><br>
 
-<br>
+<a href="https://indrajeet-portfolio-jawi.vercel.app/">
+<img src="https://img.shields.io/badge/%E2%9A%A1%20PORTFOLIO-LIVE-020617?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
+</a>
 
-<p align="center">
-  🌐 <a href="https://indrajeet-khatarkar-com.vercel.app/"><b>Portfolio</b></a>
-  &nbsp; • &nbsp;
-  💼 <a href="https://www.linkedin.com/in/indrajeet-khatarkar-919980275/"><b>LinkedIn</b></a>
-  &nbsp; • &nbsp;
-  ✉️ <a href="mailto:indrajeetkhatarkar5@gmail.com"><b>Email</b></a>
-  &nbsp; • &nbsp;
-  📄 <a href="https://drive.google.com/file/d/1xMYkG0egvr7H9W3cyqPOdKZx-QQAhcrE/view?usp=sharing"><b>Resume</b></a>
-</p>
+<a href="https://www.linkedin.com/in/indrajeet-khatarkar-919980275/">
+<img src="https://img.shields.io/badge/%F0%9F%94%97%20LINKEDIN-CONNECT-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+</a>
 
-<p align="center">
-  ⚡ <a href="https://leetcode.com/u/2TNfbS3Mfm/"><b>LeetCode</b></a>
-  &nbsp; • &nbsp;
-  🟢 <a href="https://www.geeksforgeeks.org/user/indrajeetk1r12/"><b>GeeksforGeeks</b></a>
-  &nbsp; • &nbsp;
-  🍳 <a href="https://www.codechef.com/users/indrajeet_04"><b>CodeChef</b></a>
-</p>
+<a href="mailto:indrajeetkhatarkar5@gmail.com">
+<img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=indrajeetkhatarkar&label=PROFILE%20VIEWS&style=for-the-badge&color=22D3EE"
+     alt="Profile views"/>
 
 </div>
 
@@ -45,8 +39,8 @@
 <div align="center">
 
 <img src="./indrajeet-command-center.svg"
-  width="100%"
-  alt="Indrajeet Command Center"/>
+     width="100%"
+     alt="Indrajeet Command Center"/>
 
 </div>
 
@@ -57,8 +51,8 @@
 <div align="center">
 
 <img src="./indrajeet-khatarkar-snake-inside-name.svg"
-  width="100%"
-  alt="Indrajeet Khatarkar animated snake identity"/>
+     width="100%"
+     alt="Indrajeet Khatarkar animated snake identity"/>
 
 </div>
 
@@ -66,9 +60,9 @@
 
 <div align="center">
 
-⚡ ENGINEER • AUTOMATE • SHIP
+# ⚡ ENGINEER • AUTOMATE • SHIP
 
-Java Developer · DevOps Enthusiast · Cloud & Automation
+### Java Developer · DevOps Enthusiast · Cloud & Automation
 
 </div>
 
@@ -100,7 +94,10 @@ automation testing and continuously improving the way software is built.
 
 <br><br>
 
-Spring Boot<br>Backend Engineering<br>REST APIs<br>Maven
+Spring Boot<br>
+Backend Engineering<br>
+REST APIs<br>
+Maven
 
 </td>
 
@@ -112,7 +109,10 @@ Spring Boot<br>Backend Engineering<br>REST APIs<br>Maven
 
 <br><br>
 
-AWS<br>Cloud Infrastructure<br>Deployment<br>Linux
+AWS<br>
+Cloud Infrastructure<br>
+Deployment<br>
+Linux
 
 </td>
 
@@ -124,7 +124,10 @@ AWS<br>Cloud Infrastructure<br>Deployment<br>Linux
 
 <br><br>
 
-Docker<br>Jenkins<br>Terraform<br>CI/CD
+Docker<br>
+Jenkins<br>
+Terraform<br>
+CI/CD
 
 </td>
 
@@ -136,7 +139,10 @@ Docker<br>Jenkins<br>Terraform<br>CI/CD
 
 <br><br>
 
-Selenium<br>Playwright<br>TestNG<br>API Testing
+Selenium<br>
+Playwright<br>
+TestNG<br>
+API Testing
 
 </td>
 
@@ -152,8 +158,8 @@ Selenium<br>Playwright<br>TestNG<br>API Testing
 <div align="center">
 
 <img src="./indrajeet-terminal.svg"
-  width="100%"
-  alt="Indrajeet Animated Terminal"/>
+     width="100%"
+     alt="Indrajeet Animated Terminal"/>
 
 </div>
 
@@ -172,21 +178,21 @@ Selenium<br>Playwright<br>TestNG<br>API Testing
 <h3>PROGRAMMING & DEVELOPMENT</h3>
 
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,spring,nodejs,express,react,flask&perline=10"
-  alt="Programming and development technologies"/>
+     alt="Programming and development technologies"/>
 
 <br><br>
 
 <h3>DEVOPS & CLOUD</h3>
 
 <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,git,github,maven&perline=8"
-  alt="DevOps and cloud technologies"/>
+     alt="DevOps and cloud technologies"/>
 
 <br><br>
 
 <h3>DATABASE & API</h3>
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman&perline=8"
-  alt="Database and API technologies"/>
+     alt="Database and API technologies"/>
 
 <br><br>
 
@@ -211,8 +217,8 @@ Selenium<br>Playwright<br>TestNG<br>API Testing
 <div align="center">
 
 <img src="./indrajeet-pipeline-live.svg"
-  width="100%"
-  alt="Indrajeet Live DevOps Pipeline"/>
+     width="100%"
+     alt="Indrajeet Live DevOps Pipeline"/>
 
 </div>
 
@@ -222,11 +228,12 @@ Selenium<br>Playwright<br>TestNG<br>API Testing
 
 <div align="center">
 
-🚀 Selected Builds
+# 🚀 Selected Builds
 
 </div>
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -333,66 +340,41 @@ My personal developer portfolio showcasing projects,
 skills and professional identity.
 </p>
 
-<a href="https://indrajeet-khatarkar-com.vercel.app/">
+<a href="https://indrajeet-portfolio-jawi.vercel.app/">
 <b>OPEN PORTFOLIO →</b>
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
 <br><br>
 
-<!-- ═════════════════════ GITHUB TELEMETRY ═════════════════════ -->
+<!-- ═════════════════════ GITHUB ACTIVITY ═════════════════════ -->
 
 <div align="center">
 
-<h2>📊 GitHub Telemetry</h2>
+# 📊 GitHub Activity
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indrajeetkhatarkar&theme=github_dark"
-  width="100%"
-  alt="GitHub profile activity"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=indrajeetkhatarkar&theme=github_dark"
-  height="180"
-  alt="Repositories per language"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=indrajeetkhatarkar&theme=github_dark"
-  height="180"
-  alt="Most committed languages"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=indrajeetkhatarkar&theme=github-dark-blue&hide_border=true"
-  width="75%"
-  alt="GitHub contribution streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=indrajeetkhatarkar&bg_color=00000000&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=INDRAJEET%20%2F%2F%20CONTRIBUTION%20ACTIVITY"
+     width="100%"
+     alt="GitHub contribution activity"/>
 
 </div>
 
 <br>
 
-<!-- ═════════════════════ CONTRIBUTIONS ═════════════════════ -->
+<!-- ═════════════════════ CUSTOM SNAKE ART ═════════════════════ -->
 
 <div align="center">
 
-📡 Contribution Matrix
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=indrajeetkhatarkar&bg_color=00000000&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=INDRAJEET%20%2F%2F%20CONTRIBUTION%20ACTIVITY"
-  width="100%"
-  alt="GitHub contribution activity"/>
-
-<br><br>
-
-<!-- CUSTOM SNAKE ART -->
-
 <img src="./indrajeet-snake-art.svg"
-  width="100%"
-  alt="Indrajeet animated snake art"/>
+     width="100%"
+     alt="Indrajeet animated snake art"/>
 
 </div>
 
@@ -402,32 +384,41 @@ skills and professional identity.
 
 <div align="center">
 
-🎯 Current Mission
+# 🎯 Current Mission
 
 <table>
+
 <tr>
 
 <td align="center">
 
-🟢<br><b>Java + Spring Boot</b><br>Backend Engineering
+🟢<br>
+<b>Java + Spring Boot</b><br>
+Backend Engineering
 
 </td>
 
 <td align="center">
 
-🟢<br><b>AWS + Cloud</b><br>Cloud Infrastructure
+🟢<br>
+<b>AWS + Cloud</b><br>
+Cloud Infrastructure
 
 </td>
 
 <td align="center">
 
-🟢<br><b>Docker + Jenkins</b><br>CI/CD Automation
+🟢<br>
+<b>Docker + Jenkins</b><br>
+CI/CD Automation
 
 </td>
 
 <td align="center">
 
-🟢<br><b>Terraform</b><br>Infrastructure as Code
+🟢<br>
+<b>Terraform</b><br>
+Infrastructure as Code
 
 </td>
 
@@ -437,29 +428,38 @@ skills and professional identity.
 
 <td align="center">
 
-🟢<br><b>Automation</b><br>Selenium + Playwright
+🟢<br>
+<b>Automation</b><br>
+Selenium + Playwright
 
 </td>
 
 <td align="center">
 
-🟢<br><b>DSA</b><br>Problem Solving
+🟢<br>
+<b>DSA</b><br>
+Problem Solving
 
 </td>
 
 <td align="center">
 
-🔵<br><b>AI Applications</b><br>Intelligent Systems
+🔵<br>
+<b>AI Applications</b><br>
+Intelligent Systems
 
 </td>
 
 <td align="center">
 
-🔵<br><b>Engineering</b><br>Build • Ship • Improve
+🔵<br>
+<b>Engineering</b><br>
+Build • Ship • Improve
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -496,53 +496,67 @@ BUILD → TEST → AUTOMATE → DEPLOY → OBSERVE → IMPROVE
 
 <div align="center">
 
-🌐 Let's Connect
+# 🌐 Let's Connect
 
 <br>
 
-<a href="https://indrajeet-khatarkar-com.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-020617?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
+<img src="./indrajeet-connect-hud-v2.svg"
+     width="100%"
+     alt="Indrajeet digital presence"/>
+
+<br><br>
+
+<a href="https://indrajeet-portfolio-jawi.vercel.app/">
+<b>⚡ Portfolio</b>
 </a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/indrajeet-khatarkar-919980275/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<b>🔗 LinkedIn</b>
 </a>
 
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
 <a href="mailto:indrajeetkhatarkar5@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+<b>📧 Email</b>
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://drive.google.com/file/d/1xMYkG0egvr7H9W3cyqPOdKZx-QQAhcrE/view?usp=sharing">
+<b>📄 Resume</b>
 </a>
 
 <br><br>
 
 <a href="https://leetcode.com/u/2TNfbS3Mfm/">
-<img src="https://img.shields.io/badge/LEETCODE-PROFILE-020617?style=for-the-badge&logo=leetcode&logoColor=FACC15"/>
+<b>🧠 LeetCode</b>
 </a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
 
 <a href="https://www.geeksforgeeks.org/user/indrajeetk1r12/">
-<img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-020617?style=for-the-badge&logo=geeksforgeeks&logoColor=22C55E"/>
+<b>💻 GeeksforGeeks</b>
 </a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
 
 <a href="https://www.codechef.com/users/indrajeet_04">
-<img src="https://img.shields.io/badge/CODECHEF-PROFILE-020617?style=for-the-badge&logo=codechef&logoColor=F97316"/>
-</a>
-
-<br><br>
-
-<a href="https://drive.google.com/file/d/1xMYkG0egvr7H9W3cyqPOdKZx-QQAhcrE/view?usp=sharing">
-<img src="https://img.shields.io/badge/RESUME-OPEN%20RESUME-020617?style=for-the-badge&logo=googledrive&logoColor=38BDF8"/>
+<b>🏆 CodeChef</b>
 </a>
 
 </div>
 
 <br><br>
 
-<!-- ═════════════════════ CUSTOM FINAL SNAKE MOTION ═════════════════════ -->
+<!-- ═════════════════════ FINAL SNAKE MOTION ═════════════════════ -->
 
 <div align="center">
 
 <img src="./indrajeet-khatarkar-snake-motion.svg"
-  width="100%"
-  alt="Indrajeet Khatarkar animated snake motion"/>
+     width="100%"
+     alt="Indrajeet Khatarkar animated snake motion"/>
 
 </div>
 
@@ -553,19 +567,16 @@ BUILD → TEST → AUTOMATE → DEPLOY → OBSERVE → IMPROVE
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:312E81,75:0EA5E9,100:22D3EE&height=180&section=footer&text=INDRAJEET%20KHATARKAR&fontSize=28&fontColor=FFFFFF&animation=twinkling&fontAlignY=65"
-  width="100%"
-  alt="Indrajeet Khatarkar animated footer"/>
+     width="100%"
+     alt="Indrajeet Khatarkar animated footer"/>
 
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1800&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+TEST+%E2%80%A2+DEPLOY;ALWAYS+LEARNING.+ALWAYS+BUILDING.;THE+NEXT+VERSION+IS+BETTER."
-  alt="Animated closing message"/>
+     alt="Animated closing message"/>
 
 <br><br>
 
 <b>Thanks for stopping by. ⭐</b>
 
 </div>
-
-Connect with me
-
