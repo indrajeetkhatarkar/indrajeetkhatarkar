@@ -14,15 +14,25 @@
 <br><br>
 
 <a href="https://indrajeet-portfolio-jawi.vercel.app/">
-<img src="https://img.shields.io/badge/%E2%9A%A1%20PORTFOLIO-LIVE-020617?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/⚡%20PORTFOLIO-38BDF8?style=flat-square&labelColor=020617"
+       height="28"
+       alt="Portfolio"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/indrajeet-khatarkar-919980275/">
-<img src="https://img.shields.io/badge/%F0%9F%94%97%20LINKEDIN-CONNECT-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/🔗%20LINKEDIN-60A5FA?style=flat-square&labelColor=020617"
+       height="28"
+       alt="LinkedIn"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:indrajeetkhatarkar5@gmail.com">
-<img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/📧%20EMAIL-A78BFA?style=flat-square&labelColor=020617"
+       height="28"
+       alt="Email"/>
 </a>
 
 <br><br>
