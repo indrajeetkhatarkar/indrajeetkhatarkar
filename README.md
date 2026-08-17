@@ -13,26 +13,48 @@
 
 <br><br>
 
-<a href="https://indrajeet-portfolio-jawi.vercel.app/">
-  <img src="https://img.shields.io/badge/⚡%20PORTFOLIO-38BDF8?style=flat-square&labelColor=020617"
-       height="28"
-       alt="Portfolio"/>
-</a>
+<!-- ═════════════════════ ANIMATED CONNECT NAVIGATION ═════════════════════ -->
 
-&nbsp;&nbsp;&nbsp;
+<a href="https://indrajeet-portfolio-jawi.vercel.app/">
+<img src="./indrajeet-connect-portfolio.svg"
+     width="105"
+     alt="Portfolio"/>
+</a>
 
 <a href="https://www.linkedin.com/in/indrajeet-khatarkar-919980275/">
-  <img src="https://img.shields.io/badge/🔗%20LINKEDIN-60A5FA?style=flat-square&labelColor=020617"
-       height="28"
-       alt="LinkedIn"/>
+<img src="./indrajeet-connect-linkedin.svg"
+     width="105"
+     alt="LinkedIn"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:indrajeetkhatarkar5@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20EMAIL-A78BFA?style=flat-square&labelColor=020617"
-       height="28"
-       alt="Email"/>
+<img src="./indrajeet-connect-email.svg"
+     width="105"
+     alt="Email"/>
+</a>
+
+<a href="./Indrajeet%20Resume.pdf">
+<img src="./indrajeet-connect-resume.svg"
+     width="105"
+     alt="Resume"/>
+</a>
+
+<a href="https://leetcode.com/u/2TNfbS3Mfm/">
+<img src="./indrajeet-connect-leetcode.svg"
+     width="105"
+     alt="LeetCode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/indrajeetk1r12/">
+<img src="./indrajeet-connect-gfg.svg"
+     width="105"
+     alt="GeeksforGeeks"/>
+</a>
+
+<a href="https://www.codechef.com/users/indrajeet_04">
+<img src="./indrajeet-connect-codechef.svg"
+     width="105"
+     alt="CodeChef"/>
 </a>
 
 <br><br>
@@ -519,8 +541,6 @@ BUILD → TEST → AUTOMATE → DEPLOY → OBSERVE → IMPROVE
 </div>
 
 <br>
-
-<!-- ═════════════════════ FINAL SNAKE MOTION ═════════════════════ -->
 
 <!-- ═════════════════════ FINAL SNAKE MOTION ═════════════════════ -->
 
